@@ -1,0 +1,18 @@
+
+.my-navbar {
+    background-color: #4B0082;
+    color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  }
+
+  .nav-link {
+    color: white;
+  }
+  
+  .button{
+   padding: 14px;
+  }
+  .logout-button {
+    margin-left: 10px;
+  }
+  
